@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ignacy_Jarzemski_4P</string>
+    <string name="app_title">BlueToothApp</string>
+    <string name="new_title">New devices</string>
+    <string name="scan_devices">SCAN DEVICES</string>
+    <string name="my_mac_prefix">My MAC:</string>
+    <string name="visibility_devices">VISIBILITY TO DEVICES</string>
+    <string name="log_prefix">Log:</string>
+    <string name="scan_in_progress">Scanning…(%1$d found)</string>
+</resources>

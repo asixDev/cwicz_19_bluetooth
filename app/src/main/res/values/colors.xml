@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="active">#379150</color>
+    <color name="inactive">#913737</color>
+    <color name="tooth_blue">#375B91</color>
+    <color name="disabled">#919191</color>
+    <color name="output">#799137</color>
+    <color name="tooth_blue_off">#5E7591</color>
+    <color name="bg">#242424</color>
+</resources>
